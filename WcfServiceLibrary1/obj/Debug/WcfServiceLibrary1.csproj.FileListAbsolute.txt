@@ -1,0 +1,6 @@
+D:\Brain Academy\Hello_WCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Brain Academy\Hello_WCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Brain Academy\Hello_WCF\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Brain Academy\Hello_WCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Hello_WCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Brain Academy\Hello_WCF\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

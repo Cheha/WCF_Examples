@@ -1,0 +1,5 @@
+D:\Brain Academy\Hello_WCF\WCF_Server\bin\Debug\WCF_Server.exe.config
+D:\Brain Academy\Hello_WCF\WCF_Server\bin\Debug\WCF_Server.exe
+D:\Brain Academy\Hello_WCF\WCF_Server\bin\Debug\WCF_Server.pdb
+D:\Brain Academy\Hello_WCF\WCF_Server\obj\Debug\WCF_Server.exe
+D:\Brain Academy\Hello_WCF\WCF_Server\obj\Debug\WCF_Server.pdb

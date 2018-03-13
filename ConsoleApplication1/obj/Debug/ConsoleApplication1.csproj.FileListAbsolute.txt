@@ -1,0 +1,5 @@
+D:\Brain Academy\Hello_WCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Brain Academy\Hello_WCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Brain Academy\Hello_WCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Brain Academy\Hello_WCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Brain Academy\Hello_WCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

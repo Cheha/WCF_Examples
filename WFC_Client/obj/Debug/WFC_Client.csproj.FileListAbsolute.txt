@@ -1,0 +1,5 @@
+D:\Brain Academy\Hello_WCF\WFC_Client\bin\Debug\WFC_Client.exe.config
+D:\Brain Academy\Hello_WCF\WFC_Client\bin\Debug\WFC_Client.exe
+D:\Brain Academy\Hello_WCF\WFC_Client\bin\Debug\WFC_Client.pdb
+D:\Brain Academy\Hello_WCF\WFC_Client\obj\Debug\WFC_Client.exe
+D:\Brain Academy\Hello_WCF\WFC_Client\obj\Debug\WFC_Client.pdb
